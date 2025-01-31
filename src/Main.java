@@ -74,7 +74,7 @@ public class Main {
                 books(seatsEx);
                 break;
             } else {
-                System.out.println("Seat = " + checkSeats + "\balready booked!!!!");
+                System.out.println("Seat = " + checkSeats + "\b already booked!!!!");
             }
 
         } while (true);
